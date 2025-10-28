@@ -1,9 +1,9 @@
 import {
-    IsEmail,
-    IsString,
-    Matches,
-    MaxLength,
-    MinLength,
+  IsEmail,
+  IsString,
+  Matches,
+  MaxLength,
+  MinLength,
 } from 'class-validator';
 
 export class AuthCredentials {
